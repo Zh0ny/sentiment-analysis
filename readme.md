@@ -20,11 +20,11 @@ A análise é realizada com base nas frases inseridas em um arquivo de texto, e 
 
 Input e evolução do Projeto:
 
-![Comentários - Parte 1](./checkpoint%20(1).png)
-![Comentários - Parte 2](./checkpoint%20(2).png)
-![Comentários - Parte 3](./checkpoint%20(3).png)
-![Comentários - Parte 4](./checkpoint%20(4).png)
-![Comentários - Parte 5](./checkpoint%20(5).png)
+![Comentários - Parte 1](./checkpoint%20%20(1).png)
+![Comentários - Parte 2](./checkpoint%20%20(2).png)
+![Comentários - Parte 3](./checkpoint%20%20(3).png)
+![Comentários - Parte 4](./checkpoint%20%20(4).png)
+![Comentários - Parte 5](./checkpoint%20%20(5).png)
 
 ---
 
